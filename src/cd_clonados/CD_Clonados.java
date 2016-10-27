@@ -6,6 +6,8 @@ public class CD_Clonados {
         System.out.println("Otra prueba"); //Cambio3
         System.out.println("Modificacion en curso.");
         System.out.println("Volvemos al master");
+        System.out.println("Nos salimos del master");
+        System.out.println("Venimos a la nueva rama");
     }
     
 }
